@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["小佳.", "小五生.", "遊戲玩家.", "未來的千萬 Youtuber."],
+      strings: ["小佳.", "小五生.", "遊戲探險家.", "未來的千萬 Youtuber."],
       typeSpeed: 100,
       loop: true,
     });
@@ -92,8 +92,8 @@ $(document).ready(function() {
 
 
   $('.services-carousel').owlCarousel({
-      autoplay: true,
-      loop: true,
+      autoplay: false,
+      loop: false,
       margin: 20,
       dots: true,
       nav: false,

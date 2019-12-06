@@ -172,6 +172,10 @@ p {
   margin-bottom: 30px;
 }
 
+.mail{
+  alignment: center;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*  Navbar Top
 /*-----------------------------------------------------------------------------------*/
@@ -240,7 +244,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/home-bg.jpg") repeat scroll center center / cover;
+  background: url("../images/home-bg.png") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }
@@ -260,7 +264,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: #1E1E1E;
 }
 
 .header-content p {
@@ -269,7 +273,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: #1E1E1E;
   font-weight: 500;
 }
 
